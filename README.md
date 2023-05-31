@@ -1,4 +1,5 @@
-# Project_3
+# TRENDALYZER
+
 315 Project 3, API Mash-up
 
 Music Web App that highlights listening habits by categorizing and classifying data collected from Spotify account. Built with Spotify API. 
