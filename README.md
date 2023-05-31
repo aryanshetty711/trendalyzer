@@ -1,2 +1,2 @@
-# trendalyzer
-web app that summarizes Spotify habits and highlights nifty details
+# Project_3
+315 Project 3, API Mash-up
